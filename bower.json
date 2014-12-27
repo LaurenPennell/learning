@@ -1,0 +1,26 @@
+{
+  "name": "learning",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "modernizr": "~2.8.2"
+  },
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "app/index.html",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "authors": [
+    "Lauren Pennell"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
